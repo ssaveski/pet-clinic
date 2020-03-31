@@ -1,5 +1,14 @@
-com/saveski/petclinic/model/PetType.class
+com/saveski/petclinic/services/CrudService.class
+com/saveski/petclinic/services/map/OwnerServiceMap.class
 com/saveski/petclinic/model/Person.class
+com/saveski/petclinic/model/Pet.class
+com/saveski/petclinic/services/map/VetServiceMap.class
+com/saveski/petclinic/model/BaseEntity.class
+com/saveski/petclinic/services/map/AbstractMapService.class
+com/saveski/petclinic/services/PetService.class
+com/saveski/petclinic/services/OwnerService.class
+com/saveski/petclinic/services/VetService.class
+com/saveski/petclinic/model/PetType.class
 com/saveski/petclinic/model/Owner.class
 com/saveski/petclinic/model/Vet.class
-com/saveski/petclinic/model/Pet.class
+com/saveski/petclinic/services/map/PetServiceMap.class

@@ -1,5 +1,14 @@
 /home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/model/Person.java
-/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/model/Pet.java
-/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/model/Vet.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/services/map/PetServiceMap.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/services/map/OwnerServiceMap.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/model/BaseEntity.java
 /home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/model/Owner.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/services/map/AbstractMapService.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/services/PetService.java
 /home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/model/PetType.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/services/map/VetServiceMap.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/services/CrudService.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/model/Pet.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/services/OwnerService.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/model/Vet.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-data/src/main/java/com/saveski/petclinic/services/VetService.java
