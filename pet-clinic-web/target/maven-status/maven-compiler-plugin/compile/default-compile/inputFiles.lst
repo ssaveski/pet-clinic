@@ -1,2 +1,5 @@
 /home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-web/src/main/java/com/saveski/petclinic/controllers/IndexController.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-web/src/main/java/com/saveski/petclinic/controllers/VetController.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-web/src/main/java/com/saveski/petclinic/controllers/OwnersController.java
 /home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-web/src/main/java/com/saveski/petclinic/PetClinicApplication.java
+/home/ssaveski/Documents/TurtorialProjects/backend/Spring/pet-clinic/pet-clinic-web/src/main/java/com/saveski/petclinic/boostrap/DataLoader.java

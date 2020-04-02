@@ -1,2 +1,5 @@
+com/saveski/petclinic/controllers/VetController.class
 com/saveski/petclinic/controllers/IndexController.class
+com/saveski/petclinic/controllers/OwnersController.class
 com/saveski/petclinic/PetClinicApplication.class
+com/saveski/petclinic/boostrap/DataLoader.class
