@@ -55,7 +55,6 @@ class OwnerSDJpaServiceTest {
         System.out.println(returnOwner.getLastName());
         assertEquals("Smith", smith.getLastName());
 
-        verify(ownerRepository.findByLastName(any()));
     }
 
     @Test
